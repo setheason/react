@@ -1,0 +1,48 @@
+body {
+    background: #202a44;
+    font-family: Tahoma, Arial, sans-serif;
+    
+}
+
+h1 {
+    color: seashell;
+    font: 32px Garamond, Helvetica, serif;
+    border-style: dashed;
+    border-color: seashell;
+    background-color: sienna;
+    padding: 20px 10px 35px 35px;
+    margin: 20px;
+    
+    
+}
+
+table {
+    width: 40%;
+}
+
+thead {
+    text-align: right;
+}
+
+label {
+    display: block;
+}
+
+#submit-btn {
+    display: block;
+    
+    
+}
+
+section {
+  border-style: double;
+  border-color: oldlace;
+  color:seashell
+  margin: 20px;
+
+}
+
+p {
+    color:seashell
+}
+
